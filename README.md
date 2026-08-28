@@ -1,3 +1,5 @@
+### 🔗 [Live Demo: ai-financial-report-summarizer.onrender.com](https://ai-financial-report-summarizer.onrender.com/)
+⚡ *Hosted on Render's free tier — may take 30–60s to wake up on first load. Thanks for your patience!*
 # AI Financial Report Summarizer
 
 > Upload a transaction CSV → click **Analyze** → get an executive-ready financial summary and a focused anomaly list.
