@@ -167,7 +167,6 @@ def call_gemini(dataset: dict[str, Any], rule_flags: list[dict[str, Any]]) -> di
                 },
                 "required": ["summary", "anomalies"],
             },
-            temperature=0.2,
         ),
     )
 
