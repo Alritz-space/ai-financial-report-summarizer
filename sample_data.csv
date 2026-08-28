@@ -1,0 +1,81 @@
+date,account,category,amount,period
+2025-01-15,Travel Expense,Operating Expense,2170.27,2025-Q1
+2025-01-16,Travel Expense,Operating Expense,1860.61,2025-Q1
+2025-01-17,Marketing,Operating Expense,5912.54,2025-Q1
+2025-01-18,Marketing,Operating Expense,5834.82,2025-Q1
+2025-01-19,Cloud Infrastructure,Technology,9510.78,2025-Q1
+2025-01-20,Cloud Infrastructure,Technology,9381.67,2025-Q1
+2025-01-21,Software Subscriptions,Technology,5197.08,2025-Q1
+2025-01-22,Software Subscriptions,Technology,4279.11,2025-Q1
+2025-01-23,Professional Services,Operating Expense,7359.46,2025-Q1
+2025-01-24,Professional Services,Operating Expense,6653.63,2025-Q1
+2025-01-25,Office & Facilities,Operating Expense,3170.41,2025-Q1
+2025-01-26,Office & Facilities,Operating Expense,3404.37,2025-Q1
+2025-01-27,Payroll,People,43432.06,2025-Q1
+2025-01-28,Payroll,People,45458.33,2025-Q1
+2025-01-29,Utilities,Operating Expense,2175.54,2025-Q1
+2025-01-30,Utilities,Operating Expense,2122.65,2025-Q1
+2025-01-31,Sales Commissions,Sales,7463.25,2025-Q1
+2025-02-01,Sales Commissions,Sales,8171.39,2025-Q1
+2025-02-02,Bank Fees,Finance,966.84,2025-Q1
+2025-02-03,Bank Fees,Finance,793.4,2025-Q1
+2025-04-15,Travel Expense,Operating Expense,2333.03,2025-Q2
+2025-04-16,Travel Expense,Operating Expense,2276.86,2025-Q2
+2025-04-17,Marketing,Operating Expense,6220.74,2025-Q2
+2025-04-18,Marketing,Operating Expense,5933.88,2025-Q2
+2025-04-19,Cloud Infrastructure,Technology,10337.15,2025-Q2
+2025-04-20,Cloud Infrastructure,Technology,8949.69,2025-Q2
+2025-04-21,Software Subscriptions,Technology,4435.73,2025-Q2
+2025-04-22,Software Subscriptions,Technology,4440.42,2025-Q2
+2025-04-23,Professional Services,Operating Expense,8409.88,2025-Q2
+2025-04-24,Professional Services,Operating Expense,7955.74,2025-Q2
+2025-04-25,Office & Facilities,Operating Expense,3778.39,2025-Q2
+2025-04-26,Office & Facilities,Operating Expense,3713.02,2025-Q2
+2025-04-27,Payroll,People,51155.95,2025-Q2
+2025-04-28,Payroll,People,56473.58,2025-Q2
+2025-04-29,Utilities,Operating Expense,2110.14,2025-Q2
+2025-04-30,Utilities,Operating Expense,2200.65,2025-Q2
+2025-05-01,Sales Commissions,Sales,8934.59,2025-Q2
+2025-05-02,Sales Commissions,Sales,8515.52,2025-Q2
+2025-05-03,Bank Fees,Finance,1012.36,2025-Q2
+2025-05-04,Bank Fees,Finance,948.79,2025-Q2
+2025-07-15,Travel Expense,Operating Expense,2357.32,2025-Q3
+2025-07-16,Travel Expense,Operating Expense,2002.07,2025-Q3
+2025-07-17,Marketing,Operating Expense,6250.78,2025-Q3
+2025-07-18,Marketing,Operating Expense,6349.47,2025-Q3
+2025-07-19,Cloud Infrastructure,Technology,8658.82,2025-Q3
+2025-07-20,Cloud Infrastructure,Technology,9012.43,2025-Q3
+2025-07-21,Software Subscriptions,Technology,4595.8,2025-Q3
+2025-07-22,Software Subscriptions,Technology,4811.67,2025-Q3
+2025-07-23,Professional Services,Operating Expense,8286.33,2025-Q3
+2025-07-24,Professional Services,Operating Expense,7764.67,2025-Q3
+2025-07-25,Office & Facilities,Operating Expense,3524.65,2025-Q3
+2025-07-26,Office & Facilities,Operating Expense,3384.36,2025-Q3
+2025-07-27,Payroll,People,49497.84,2025-Q3
+2025-07-28,Payroll,People,57924.51,2025-Q3
+2025-07-29,Utilities,Operating Expense,2326.83,2025-Q3
+2025-07-30,Utilities,Operating Expense,2305.85,2025-Q3
+2025-07-31,Sales Commissions,Sales,7884.39,2025-Q3
+2025-08-01,Sales Commissions,Sales,9030.72,2025-Q3
+2025-08-02,Bank Fees,Finance,885.21,2025-Q3
+2025-08-03,Bank Fees,Finance,935.14,2025-Q3
+2025-10-15,Travel Expense,Operating Expense,2593.13,2025-Q4
+2025-10-16,Travel Expense,Operating Expense,2398.47,2025-Q4
+2025-10-17,Marketing,Operating Expense,7000.64,2025-Q4
+2025-10-18,Marketing,Operating Expense,7212.25,2025-Q4
+2025-10-19,Cloud Infrastructure,Technology,10763.32,2025-Q4
+2025-10-20,Cloud Infrastructure,Technology,10603.76,2025-Q4
+2025-10-21,Software Subscriptions,Technology,4907.43,2025-Q4
+2025-10-22,Software Subscriptions,Technology,4659.34,2025-Q4
+2025-10-23,Professional Services,Operating Expense,7920.44,2025-Q4
+2025-10-24,Professional Services,Operating Expense,7825.54,2025-Q4
+2025-10-25,Office & Facilities,Operating Expense,3496.4,2025-Q4
+2025-10-26,Office & Facilities,Operating Expense,4156.36,2025-Q4
+2025-10-27,Payroll,People,59035.82,2025-Q4
+2025-10-28,Payroll,People,51736.78,2025-Q4
+2025-10-29,Utilities,Operating Expense,2407.07,2025-Q4
+2025-10-30,Utilities,Operating Expense,2262.38,2025-Q4
+2025-10-31,Sales Commissions,Sales,9719.5,2025-Q4
+2025-11-01,Sales Commissions,Sales,8752.7,2025-Q4
+2025-11-02,Bank Fees,Finance,938.38,2025-Q4
+2025-11-03,Bank Fees,Finance,934.03,2025-Q4
